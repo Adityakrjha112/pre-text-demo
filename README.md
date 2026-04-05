@@ -2,6 +2,9 @@
 
 This project demonstrates how to use **Pretext.js** to manually control and customize text layout.
 
+## 🔗 Live Demo
+👉 https://adityakrjha112.github.io/pre-text-demo/
+
 Pretext.js allows you to:
 
 * Split text into segments (words, spaces, emojis)
